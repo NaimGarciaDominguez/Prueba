@@ -79,3 +79,5 @@ select max(presupuesto) from departamento;
 select nombre, presupuesto from departamento where presupuesto = (select max(presupuesto) from departamento);
 select count(*) from empleado;
 select count(*) from empleado where apellido2 is not null;
+
+-- probando modificaciones
