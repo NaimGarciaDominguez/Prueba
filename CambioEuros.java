@@ -23,7 +23,7 @@ public class CambioEuros {
     }
 
     /**
-     * Metodo para hacer la conversión de euros a una moneda.
+     * Metodo para hacer la conversión de una moneda a euros.
      *
      * @param moneda Array de monedas de tipo string
      * @param tasaCambio Array que las tasas de cambio de tipo double.
